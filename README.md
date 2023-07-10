@@ -57,3 +57,24 @@ TestNG is a testing framework for Java that is designed to be more flexible and 
 https://docs.google.com/spreadsheets/d/1AIbUN8rDromlwEId2qwQtt1DgpCdQ_15Nd_4tB1u-7A/edit?usp=sharing
 
 
+## Selenium TestNG Automation Report Image
+
+![Capture](https://github.com/mahmudulkhan900/Web-Automation-With-Selenium-TestNG/assets/60164456/e036fba4-a025-40d4-a58d-54348f07bec8)
+
+
+![2](https://github.com/mahmudulkhan900/Web-Automation-With-Selenium-TestNG/assets/60164456/b2049ae7-6aaa-49c7-83de-5fb622162b78)
+
+![3](https://github.com/mahmudulkhan900/Web-Automation-With-Selenium-TestNG/assets/60164456/2b7c8648-57b2-4cc0-9c72-33d99a69fd60)
+
+![4](https://github.com/mahmudulkhan900/Web-Automation-With-Selenium-TestNG/assets/60164456/9f38f5b7-d503-469e-a68f-b5636b801e7d)
+
+![5](https://github.com/mahmudulkhan900/Web-Automation-With-Selenium-TestNG/assets/60164456/41be7b71-374b-42a4-b068-0a8aefc6dac4)
+
+
+## Output Video of the Project
+
+https://drive.google.com/drive/folders/1Stz1rcFUOK7-AvexuDaFyw_KEELoszZm?usp=sharing
+
+
+
+
